@@ -27,22 +27,17 @@
     justify-content: space-between;
     height: 100vh;
     
-    
+    padding: 10px 50px;
+    margin-top: 50px;
+    margin-bottom: 800px;
+
+
+}
+.img_card{
+    background-color:salmon;
+    padding: 10px 10px;
+    margin: 10px;
+    margin-bottom:300px;
     
 
-   
-}
-.child{
-    background-color: aqua;
-    border: 1px solid grey;
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    width: 12px;
-}
-.sibling{
-    border: 1px solid greenyellow;
-    background-color: blueviolet;
-    background-image: url(image/undraw_Experience_design_re_dmqq.png);
-    width:10px;
 }
